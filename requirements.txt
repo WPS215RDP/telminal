@@ -1,3 +1,6 @@
 pexpect==4.8.0
 Telethon==1.23.0
 pyppeteer==0.2.6
+pycryptodomex
+requests
+bs4
